@@ -11,7 +11,6 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
-//测试
 allprojects {
     repositories {
         jcenter()
